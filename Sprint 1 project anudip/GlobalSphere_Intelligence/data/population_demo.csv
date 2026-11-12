@@ -1,0 +1,201 @@
+iso3,country,region,year,population,population_growth_pct,population_density_km2,urban_population_pct,rural_population_pct
+IND,India,South Asia,2015,1328576366,0.81,481,36.4,63.6
+IND,India,South Asia,2016,1339337834,0.81,481,36.4,63.6
+IND,India,South Asia,2017,1350186471,0.81,481,36.4,63.6
+IND,India,South Asia,2018,1361122981,0.81,481,36.4,63.6
+IND,India,South Asia,2019,1372148077,0.81,481,36.4,63.6
+IND,India,South Asia,2020,1383262477,0.81,481,36.4,63.6
+IND,India,South Asia,2021,1394466903,0.81,481,36.4,63.6
+IND,India,South Asia,2022,1405762085,0.81,481,36.4,63.6
+IND,India,South Asia,2023,1417148758,0.81,481,36.4,63.6
+IND,India,South Asia,2024,1428627663,0.81,481,36.4,63.6
+CHN,China,East Asia & Pacific,2015,1423470105,-0.1,150,65.2,34.8
+CHN,China,East Asia & Pacific,2016,1422046635,-0.1,150,65.2,34.8
+CHN,China,East Asia & Pacific,2017,1420624588,-0.1,150,65.2,34.8
+CHN,China,East Asia & Pacific,2018,1419203964,-0.1,150,65.2,34.8
+CHN,China,East Asia & Pacific,2019,1417784760,-0.1,150,65.2,34.8
+CHN,China,East Asia & Pacific,2020,1416366975,-0.1,150,65.2,34.8
+CHN,China,East Asia & Pacific,2021,1414950608,-0.1,150,65.2,34.8
+CHN,China,East Asia & Pacific,2022,1413535657,-0.1,150,65.2,34.8
+CHN,China,East Asia & Pacific,2023,1412122122,-0.1,150,65.2,34.8
+CHN,China,East Asia & Pacific,2024,1410710000,-0.1,150,65.2,34.8
+USA,United States,North America,2015,320213698,0.5,37,83.3,16.700000000000003
+USA,United States,North America,2016,321814767,0.5,37,83.3,16.700000000000003
+USA,United States,North America,2017,323423840,0.5,37,83.3,16.700000000000003
+USA,United States,North America,2018,325040960,0.5,37,83.3,16.700000000000003
+USA,United States,North America,2019,326666164,0.5,37,83.3,16.700000000000003
+USA,United States,North America,2020,328299495,0.5,37,83.3,16.700000000000003
+USA,United States,North America,2021,329940993,0.5,37,83.3,16.700000000000003
+USA,United States,North America,2022,331590698,0.5,37,83.3,16.700000000000003
+USA,United States,North America,2023,333248651,0.5,37,83.3,16.700000000000003
+USA,United States,North America,2024,334914895,0.5,37,83.3,16.700000000000003
+IDN,Indonesia,East Asia & Pacific,2015,254596824,1.11,155,59.4,40.6
+IDN,Indonesia,East Asia & Pacific,2016,257422848,1.11,155,59.4,40.6
+IDN,Indonesia,East Asia & Pacific,2017,260280242,1.11,155,59.4,40.6
+IDN,Indonesia,East Asia & Pacific,2018,263169353,1.11,155,59.4,40.6
+IDN,Indonesia,East Asia & Pacific,2019,266090532,1.11,155,59.4,40.6
+IDN,Indonesia,East Asia & Pacific,2020,269044137,1.11,155,59.4,40.6
+IDN,Indonesia,East Asia & Pacific,2021,272030527,1.11,155,59.4,40.6
+IDN,Indonesia,East Asia & Pacific,2022,275050066,1.11,155,59.4,40.6
+IDN,Indonesia,East Asia & Pacific,2023,278103122,1.11,155,59.4,40.6
+IDN,Indonesia,East Asia & Pacific,2024,281190067,1.11,155,59.4,40.6
+PAK,Pakistan,South Asia,2015,197315911,2.55,321,38.0,62.0
+PAK,Pakistan,South Asia,2016,202347467,2.55,321,38.0,62.0
+PAK,Pakistan,South Asia,2017,207507327,2.55,321,38.0,62.0
+PAK,Pakistan,South Asia,2018,212798764,2.55,321,38.0,62.0
+PAK,Pakistan,South Asia,2019,218225133,2.55,321,38.0,62.0
+PAK,Pakistan,South Asia,2020,223789874,2.55,321,38.0,62.0
+PAK,Pakistan,South Asia,2021,229496515,2.55,321,38.0,62.0
+PAK,Pakistan,South Asia,2022,235348676,2.55,321,38.0,62.0
+PAK,Pakistan,South Asia,2023,241350068,2.55,321,38.0,62.0
+PAK,Pakistan,South Asia,2024,247504495,2.55,321,38.0,62.0
+NGA,Nigeria,Sub-Saharan Africa,2015,192986265,2.1,255,54.0,46.0
+NGA,Nigeria,Sub-Saharan Africa,2016,197038977,2.1,255,54.0,46.0
+NGA,Nigeria,Sub-Saharan Africa,2017,201176795,2.1,255,54.0,46.0
+NGA,Nigeria,Sub-Saharan Africa,2018,205401508,2.1,255,54.0,46.0
+NGA,Nigeria,Sub-Saharan Africa,2019,209714939,2.1,255,54.0,46.0
+NGA,Nigeria,Sub-Saharan Africa,2020,214118953,2.1,255,54.0,46.0
+NGA,Nigeria,Sub-Saharan Africa,2021,218615451,2.1,255,54.0,46.0
+NGA,Nigeria,Sub-Saharan Africa,2022,223206376,2.1,255,54.0,46.0
+NGA,Nigeria,Sub-Saharan Africa,2023,227893710,2.1,255,54.0,46.0
+NGA,Nigeria,Sub-Saharan Africa,2024,232679478,2.1,255,54.0,46.0
+BRA,Brazil,Latin America & Caribbean,2015,202330156,0.52,25,87.8,12.200000000000003
+BRA,Brazil,Latin America & Caribbean,2016,203382273,0.52,25,87.8,12.200000000000003
+BRA,Brazil,Latin America & Caribbean,2017,204439861,0.52,25,87.8,12.200000000000003
+BRA,Brazil,Latin America & Caribbean,2018,205502948,0.52,25,87.8,12.200000000000003
+BRA,Brazil,Latin America & Caribbean,2019,206571564,0.52,25,87.8,12.200000000000003
+BRA,Brazil,Latin America & Caribbean,2020,207645736,0.52,25,87.8,12.200000000000003
+BRA,Brazil,Latin America & Caribbean,2021,208725494,0.52,25,87.8,12.200000000000003
+BRA,Brazil,Latin America & Caribbean,2022,209810866,0.52,25,87.8,12.200000000000003
+BRA,Brazil,Latin America & Caribbean,2023,210901883,0.52,25,87.8,12.200000000000003
+BRA,Brazil,Latin America & Caribbean,2024,211998573,0.52,25,87.8,12.200000000000003
+BGD,Bangladesh,South Asia,2015,157008082,1.12,1329,40.5,59.5
+BGD,Bangladesh,South Asia,2016,158766572,1.12,1329,40.5,59.5
+BGD,Bangladesh,South Asia,2017,160544758,1.12,1329,40.5,59.5
+BGD,Bangladesh,South Asia,2018,162342859,1.12,1329,40.5,59.5
+BGD,Bangladesh,South Asia,2019,164161099,1.12,1329,40.5,59.5
+BGD,Bangladesh,South Asia,2020,165999703,1.12,1329,40.5,59.5
+BGD,Bangladesh,South Asia,2021,167858900,1.12,1329,40.5,59.5
+BGD,Bangladesh,South Asia,2022,169738920,1.12,1329,40.5,59.5
+BGD,Bangladesh,South Asia,2023,171639996,1.12,1329,40.5,59.5
+BGD,Bangladesh,South Asia,2024,173562364,1.12,1329,40.5,59.5
+RUS,Russian Federation,Europe & Central Asia,2015,147453450,-0.2,9,75.0,25.0
+RUS,Russian Federation,Europe & Central Asia,2016,147158543,-0.2,9,75.0,25.0
+RUS,Russian Federation,Europe & Central Asia,2017,146864226,-0.2,9,75.0,25.0
+RUS,Russian Federation,Europe & Central Asia,2018,146570498,-0.2,9,75.0,25.0
+RUS,Russian Federation,Europe & Central Asia,2019,146277357,-0.2,9,75.0,25.0
+RUS,Russian Federation,Europe & Central Asia,2020,145984802,-0.2,9,75.0,25.0
+RUS,Russian Federation,Europe & Central Asia,2021,145692832,-0.2,9,75.0,25.0
+RUS,Russian Federation,Europe & Central Asia,2022,145401447,-0.2,9,75.0,25.0
+RUS,Russian Federation,Europe & Central Asia,2023,145110644,-0.2,9,75.0,25.0
+RUS,Russian Federation,Europe & Central Asia,2024,144820423,-0.2,9,75.0,25.0
+ETH,Ethiopia,Sub-Saharan Africa,2015,104820030,2.6,132,23.0,77.0
+ETH,Ethiopia,Sub-Saharan Africa,2016,107545350,2.6,132,23.0,77.0
+ETH,Ethiopia,Sub-Saharan Africa,2017,110341529,2.6,132,23.0,77.0
+ETH,Ethiopia,Sub-Saharan Africa,2018,113210409,2.6,132,23.0,77.0
+ETH,Ethiopia,Sub-Saharan Africa,2019,116153880,2.6,132,23.0,77.0
+ETH,Ethiopia,Sub-Saharan Africa,2020,119173881,2.6,132,23.0,77.0
+ETH,Ethiopia,Sub-Saharan Africa,2021,122272402,2.6,132,23.0,77.0
+ETH,Ethiopia,Sub-Saharan Africa,2022,125451484,2.6,132,23.0,77.0
+ETH,Ethiopia,Sub-Saharan Africa,2023,128713223,2.6,132,23.0,77.0
+ETH,Ethiopia,Sub-Saharan Africa,2024,132059767,2.6,132,23.0,77.0
+MEX,Mexico,Latin America & Caribbean,2015,120722928,0.9,66,81.0,19.0
+MEX,Mexico,Latin America & Caribbean,2016,121809434,0.9,66,81.0,19.0
+MEX,Mexico,Latin America & Caribbean,2017,122905719,0.9,66,81.0,19.0
+MEX,Mexico,Latin America & Caribbean,2018,124011871,0.9,66,81.0,19.0
+MEX,Mexico,Latin America & Caribbean,2019,125127978,0.9,66,81.0,19.0
+MEX,Mexico,Latin America & Caribbean,2020,126254129,0.9,66,81.0,19.0
+MEX,Mexico,Latin America & Caribbean,2021,127390417,0.9,66,81.0,19.0
+MEX,Mexico,Latin America & Caribbean,2022,128536930,0.9,66,81.0,19.0
+MEX,Mexico,Latin America & Caribbean,2023,129693763,0.9,66,81.0,19.0
+MEX,Mexico,Latin America & Caribbean,2024,130861007,0.9,66,81.0,19.0
+JPN,Japan,East Asia & Pacific,2015,129463741,-0.5,338,92.0,8.0
+JPN,Japan,East Asia & Pacific,2016,128816422,-0.5,338,92.0,8.0
+JPN,Japan,East Asia & Pacific,2017,128172340,-0.5,338,92.0,8.0
+JPN,Japan,East Asia & Pacific,2018,127531478,-0.5,338,92.0,8.0
+JPN,Japan,East Asia & Pacific,2019,126893821,-0.5,338,92.0,8.0
+JPN,Japan,East Asia & Pacific,2020,126259352,-0.5,338,92.0,8.0
+JPN,Japan,East Asia & Pacific,2021,125628055,-0.5,338,92.0,8.0
+JPN,Japan,East Asia & Pacific,2022,124999915,-0.5,338,92.0,8.0
+JPN,Japan,East Asia & Pacific,2023,124374915,-0.5,338,92.0,8.0
+JPN,Japan,East Asia & Pacific,2024,123753041,-0.5,338,92.0,8.0
+EGY,Egypt,Middle East & North Africa,2015,101024137,1.6,117,43.0,57.0
+EGY,Egypt,Middle East & North Africa,2016,102640523,1.6,117,43.0,57.0
+EGY,Egypt,Middle East & North Africa,2017,104282771,1.6,117,43.0,57.0
+EGY,Egypt,Middle East & North Africa,2018,105951296,1.6,117,43.0,57.0
+EGY,Egypt,Middle East & North Africa,2019,107646516,1.6,117,43.0,57.0
+EGY,Egypt,Middle East & North Africa,2020,109368861,1.6,117,43.0,57.0
+EGY,Egypt,Middle East & North Africa,2021,111118763,1.6,117,43.0,57.0
+EGY,Egypt,Middle East & North Africa,2022,112896663,1.6,117,43.0,57.0
+EGY,Egypt,Middle East & North Africa,2023,114703009,1.6,117,43.0,57.0
+EGY,Egypt,Middle East & North Africa,2024,116538258,1.6,117,43.0,57.0
+PHL,Philippines,East Asia & Pacific,2015,101315974,1.5,389,48.0,52.0
+PHL,Philippines,East Asia & Pacific,2016,102835714,1.5,389,48.0,52.0
+PHL,Philippines,East Asia & Pacific,2017,104378250,1.5,389,48.0,52.0
+PHL,Philippines,East Asia & Pacific,2018,105943923,1.5,389,48.0,52.0
+PHL,Philippines,East Asia & Pacific,2019,107533082,1.5,389,48.0,52.0
+PHL,Philippines,East Asia & Pacific,2020,109146079,1.5,389,48.0,52.0
+PHL,Philippines,East Asia & Pacific,2021,110783270,1.5,389,48.0,52.0
+PHL,Philippines,East Asia & Pacific,2022,112445019,1.5,389,48.0,52.0
+PHL,Philippines,East Asia & Pacific,2023,114131694,1.5,389,48.0,52.0
+PHL,Philippines,East Asia & Pacific,2024,115843670,1.5,389,48.0,52.0
+COD,DR Congo,Sub-Saharan Africa,2015,82301654,3.2,48,46.0,54.0
+COD,DR Congo,Sub-Saharan Africa,2016,84935307,3.2,48,46.0,54.0
+COD,DR Congo,Sub-Saharan Africa,2017,87653237,3.2,48,46.0,54.0
+COD,DR Congo,Sub-Saharan Africa,2018,90458141,3.2,48,46.0,54.0
+COD,DR Congo,Sub-Saharan Africa,2019,93352801,3.2,48,46.0,54.0
+COD,DR Congo,Sub-Saharan Africa,2020,96340091,3.2,48,46.0,54.0
+COD,DR Congo,Sub-Saharan Africa,2021,99422974,3.2,48,46.0,54.0
+COD,DR Congo,Sub-Saharan Africa,2022,102604509,3.2,48,46.0,54.0
+COD,DR Congo,Sub-Saharan Africa,2023,105887853,3.2,48,46.0,54.0
+COD,DR Congo,Sub-Saharan Africa,2024,109276265,3.2,48,46.0,54.0
+VNM,Vietnam,East Asia & Pacific,2015,93580486,0.85,324,39.0,61.0
+VNM,Vietnam,East Asia & Pacific,2016,94375920,0.85,324,39.0,61.0
+VNM,Vietnam,East Asia & Pacific,2017,95178115,0.85,324,39.0,61.0
+VNM,Vietnam,East Asia & Pacific,2018,95987129,0.85,324,39.0,61.0
+VNM,Vietnam,East Asia & Pacific,2019,96803020,0.85,324,39.0,61.0
+VNM,Vietnam,East Asia & Pacific,2020,97625846,0.85,324,39.0,61.0
+VNM,Vietnam,East Asia & Pacific,2021,98455665,0.85,324,39.0,61.0
+VNM,Vietnam,East Asia & Pacific,2022,99292538,0.85,324,39.0,61.0
+VNM,Vietnam,East Asia & Pacific,2023,100136525,0.85,324,39.0,61.0
+VNM,Vietnam,East Asia & Pacific,2024,100987686,0.85,324,39.0,61.0
+IRN,Iran,Middle East & North Africa,2015,84473791,0.9,56,77.0,23.0
+IRN,Iran,Middle East & North Africa,2016,85234056,0.9,56,77.0,23.0
+IRN,Iran,Middle East & North Africa,2017,86001162,0.9,56,77.0,23.0
+IRN,Iran,Middle East & North Africa,2018,86775173,0.9,56,77.0,23.0
+IRN,Iran,Middle East & North Africa,2019,87556149,0.9,56,77.0,23.0
+IRN,Iran,Middle East & North Africa,2020,88344154,0.9,56,77.0,23.0
+IRN,Iran,Middle East & North Africa,2021,89139252,0.9,56,77.0,23.0
+IRN,Iran,Middle East & North Africa,2022,89941505,0.9,56,77.0,23.0
+IRN,Iran,Middle East & North Africa,2023,90750979,0.9,56,77.0,23.0
+IRN,Iran,Middle East & North Africa,2024,91567738,0.9,56,77.0,23.0
+TUR,Türkiye,Europe & Central Asia,2015,83386306,0.3,112,77.0,23.0
+TUR,Türkiye,Europe & Central Asia,2016,83636465,0.3,112,77.0,23.0
+TUR,Türkiye,Europe & Central Asia,2017,83887374,0.3,112,77.0,23.0
+TUR,Türkiye,Europe & Central Asia,2018,84139037,0.3,112,77.0,23.0
+TUR,Türkiye,Europe & Central Asia,2019,84391454,0.3,112,77.0,23.0
+TUR,Türkiye,Europe & Central Asia,2020,84644628,0.3,112,77.0,23.0
+TUR,Türkiye,Europe & Central Asia,2021,84898562,0.3,112,77.0,23.0
+TUR,Türkiye,Europe & Central Asia,2022,85153258,0.3,112,77.0,23.0
+TUR,Türkiye,Europe & Central Asia,2023,85408717,0.3,112,77.0,23.0
+TUR,Türkiye,Europe & Central Asia,2024,85664944,0.3,112,77.0,23.0
+DEU,Germany,Europe & Central Asia,2015,83849346,0.1,243,77.0,23.0
+DEU,Germany,Europe & Central Asia,2016,83933195,0.1,243,77.0,23.0
+DEU,Germany,Europe & Central Asia,2017,84017128,0.1,243,77.0,23.0
+DEU,Germany,Europe & Central Asia,2018,84101145,0.1,243,77.0,23.0
+DEU,Germany,Europe & Central Asia,2019,84185247,0.1,243,77.0,23.0
+DEU,Germany,Europe & Central Asia,2020,84269432,0.1,243,77.0,23.0
+DEU,Germany,Europe & Central Asia,2021,84353701,0.1,243,77.0,23.0
+DEU,Germany,Europe & Central Asia,2022,84438055,0.1,243,77.0,23.0
+DEU,Germany,Europe & Central Asia,2023,84522493,0.1,243,77.0,23.0
+DEU,Germany,Europe & Central Asia,2024,84607016,0.1,243,77.0,23.0
+THA,Thailand,East Asia & Pacific,2015,71026212,0.1,140,53.0,47.0
+THA,Thailand,East Asia & Pacific,2016,71097238,0.1,140,53.0,47.0
+THA,Thailand,East Asia & Pacific,2017,71168335,0.1,140,53.0,47.0
+THA,Thailand,East Asia & Pacific,2018,71239503,0.1,140,53.0,47.0
+THA,Thailand,East Asia & Pacific,2019,71310743,0.1,140,53.0,47.0
+THA,Thailand,East Asia & Pacific,2020,71382054,0.1,140,53.0,47.0
+THA,Thailand,East Asia & Pacific,2021,71453436,0.1,140,53.0,47.0
+THA,Thailand,East Asia & Pacific,2022,71524889,0.1,140,53.0,47.0
+THA,Thailand,East Asia & Pacific,2023,71596414,0.1,140,53.0,47.0
+THA,Thailand,East Asia & Pacific,2024,71668011,0.1,140,53.0,47.0

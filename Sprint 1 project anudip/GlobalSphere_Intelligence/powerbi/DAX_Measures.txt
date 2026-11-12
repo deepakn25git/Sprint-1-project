@@ -1,0 +1,14 @@
+Total Population = SUM(population[population])
+Countries Covered = DISTINCTCOUNT(population[iso3])
+Average Growth Rate = AVERAGE(population[population_growth_pct])
+Average Population Density = AVERAGE(population[population_density_km2])
+Urban Population = SUM(population[urban_population])
+Rural Population = SUM(population[rural_population])
+Urban Population % = DIVIDE([Urban Population],[Total Population],0)*100
+Rural Population % = DIVIDE([Rural Population],[Total Population],0)*100
+
+Power BI layout: Header and Year/Region slicers; KPI cards for total population,
+countries, average growth and density; filled map; Top 10 bar chart; yearly line chart;
+region donut; urban-vs-rural clustered column chart.
+Suggested theme: navy #080F1C, panel #111C2E, cyan #38BDF8, violet #818CF8,
+teal #34D399, amber #FBBF24.
